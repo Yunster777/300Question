@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8c250c2-94a5-467e-aecb-4b9fa6b56ac3" name="Changes" comment="Add .gitignore">
+      <change afterPath="$PROJECT_DIR$/03. 파이썬 문자열/041_upper 메서드.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03. 파이썬 문자열/042_lower 메서드.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/001_print 기초.py" beforeDir="false" afterPath="$PROJECT_DIR$/01. 파이썬 시작하기/001_print 기초.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/002_print 기초.py" beforeDir="false" afterPath="$PROJECT_DIR$/01. 파이썬 시작하기/002_print 기초.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/003_print 기초.py" beforeDir="false" afterPath="$PROJECT_DIR$/01. 파이썬 시작하기/003_print 기초.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/004_print 기초.py" beforeDir="false" afterPath="$PROJECT_DIR$/01. 파이썬 시작하기/004_print 기초.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/005_print 탭과 줄바꿈.py" beforeDir="false" afterPath="$PROJECT_DIR$/01. 파이썬 시작하기/005_print 탭과 줄바꿈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/006_print 여러 데이터 출력.py" beforeDir="false" afterPath="$PROJECT_DIR$/01. 파이썬 시작하기/006_print 여러 데이터 출력.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/007_print 기초.py" beforeDir="false" afterPath="$PROJECT_DIR$/01. 파이썬 시작하기/007_print 기초.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/008_print 기초.py" beforeDir="false" afterPath="$PROJECT_DIR$/01. 파이썬 시작하기/008_print 기초.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/009_print 줄바꿈.py" beforeDir="false" afterPath="$PROJECT_DIR$/01. 파이썬 시작하기/009_print 줄바꿈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/010_연산 결과 출력.py" beforeDir="false" afterPath="$PROJECT_DIR$/01. 파이썬 시작하기/010_연산 결과 출력.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/011_변수 사용하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. 파이썬 변수/011_변수 사용하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/012_변수 사용하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. 파이썬 변수/012_변수 사용하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/013_문자열 출력.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. 파이썬 변수/013_문자열 출력.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/014_파이썬을 이용한 값 계산.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. 파이썬 변수/014_파이썬을 이용한 값 계산.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/015_type 함수.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. 파이썬 변수/015_type 함수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/016_문자열을 정수로 변환.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. 파이썬 변수/016_문자열을 정수로 변환.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/017_정수를 문자열 100으로 변환.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. 파이썬 변수/017_정수를 문자열 100으로 변환.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/018_문자열을 실수로 변환.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. 파이썬 변수/018_문자열을 실수로 변환.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/019_문자열을 정수로 변환.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. 파이썬 변수/019_문자열을 정수로 변환.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/020_파이썬 계산.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. 파이썬 변수/020_파이썬 계산.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/021_문자열 인덱싱.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/021_문자열 인덱싱.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/022_문자열 슬라이싱.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/022_문자열 슬라이싱.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/023_문자열 인덱싱.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/023_문자열 인덱싱.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/024_문자열 슬라이싱.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/024_문자열 슬라이싱.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/025_문자열 치환.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/025_문자열 치환.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/026_문자열 다루기.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/026_문자열 다루기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/027_문자열 다루기.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/027_문자열 다루기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/028_문자열은 immutable .py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/028_문자열은 immutable .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/029_replace 메서드.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/029_replace 메서드.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/030_replace 메서드.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/030_replace 메서드.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/031_문자열 합치기.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/031_문자열 합치기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/032_문자열 곱하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/032_문자열 곱하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/033_문자열 곱하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/033_문자열 곱하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/034_문자열 곱하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/034_문자열 곱하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/035_문자열 출력.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/035_문자열 출력.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/036_문자열 출력.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/036_문자열 출력.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/037_문자열 출력.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/037_문자열 출력.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/038_컴마 제거하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/038_컴마 제거하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/039_문자열 슬라이싱.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/039_문자열 슬라이싱.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/040_strip 메서드.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. 파이썬 문자열/040_strip 메서드.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2an5zUCQjiArVRiPrGbNrS2VRtD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Python.001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.001_print 기초.executor&quot;: &quot;Run&quot;,
+    &quot;Python.002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.030.executor&quot;: &quot;Run&quot;,
+    &quot;Python.031.executor&quot;: &quot;Run&quot;,
+    &quot;Python.032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.034.executor&quot;: &quot;Run&quot;,
+    &quot;Python.035.executor&quot;: &quot;Run&quot;,
+    &quot;Python.036.executor&quot;: &quot;Run&quot;,
+    &quot;Python.037.executor&quot;: &quot;Run&quot;,
+    &quot;Python.038_컴마 제거하기.executor&quot;: &quot;Run&quot;,
+    &quot;Python.039_문자열 슬라이싱.executor&quot;: &quot;Run&quot;,
+    &quot;Python.040_strip 메서드.executor&quot;: &quot;Run&quot;,
+    &quot;Python.041_upper 메서드.executor&quot;: &quot;Run&quot;,
+    &quot;Python.042_lower 메서드.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DSCNI/Documents/Yunster/Python Project/300Question/.venv/Scripts/black.exe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DSCNI\Documents\Yunster\Python Project\300Question\03. 파이썬 문자열" />
+      <recent name="C:\Users\DSCNI\Documents\Yunster\Python Project\300Question\03" />
+      <recent name="C:\Users\DSCNI\Documents\Yunster\Python Project\300Question\02" />
+      <recent name="C:\Users\DSCNI\Documents\Yunster\Python Project\300Question" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DSCNI\Documents\Yunster\Python Project\300Question" />
+      <recent name="C:\Users\DSCNI\Documents\Yunster\Python Project\300Question\01" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8c250c2-94a5-467e-aecb-4b9fa6b56ac3" name="Changes" comment="" />
+      <created>1704941765405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704941765405</updated>
+      <workItem from="1704941772238" duration="7206000" />
+      <workItem from="1705020711896" duration="1709000" />
+      <workItem from="1705022437665" duration="287000" />
+      <workItem from="1705022734662" duration="858000" />
+      <workItem from="1705026306884" duration="708000" />
+    </task>
+    <task id="LOCAL-00001" summary="First Commit (~40)">
+      <option name="closed" value="true" />
+      <created>1705022448867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705022448867</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add .gitignore">
+      <option name="closed" value="true" />
+      <created>1705022638306</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705022638306</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit (~40)" />
+    <MESSAGE value="Add .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add .gitignore" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/300Question$014.coverage" NAME="014 Coverage Results" MODIFIED="1704954042110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/300Question$017.coverage" NAME="017 Coverage Results" MODIFIED="1704954314541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/300Question$041_upper_.coverage" NAME="041_upper 메서드 Coverage Results" MODIFIED="1705022837047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03. 파이썬 문자열" />
+    <SUITE FILE_PATH="coverage/300Question$011.coverage" NAME="011 Coverage Results" MODIFIED="1704953878772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/300Question$020.coverage" NAME="020 Coverage Results" MODIFIED="1704957711035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/300Question$039__.coverage" NAME="039_문자열 슬라이싱 Coverage Results" MODIFIED="1705022227739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$005.coverage" NAME="005 Coverage Results" MODIFIED="1704942073360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/300Question$023.coverage" NAME="023 Coverage Results" MODIFIED="1704957886548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$042_lower_.coverage" NAME="042_lower 메서드 Coverage Results" MODIFIED="1705022871711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03. 파이썬 문자열" />
+    <SUITE FILE_PATH="coverage/300Question$026.coverage" NAME="026 Coverage Results" MODIFIED="1704957979518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$008.coverage" NAME="008 Coverage Results" MODIFIED="1704942208911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/300Question$032.coverage" NAME="032 Coverage Results" MODIFIED="1705020775428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$022.coverage" NAME="022 Coverage Results" MODIFIED="1704957827745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$001_print_.coverage" NAME="001_print 기초 Coverage Results" MODIFIED="1705021866615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
+    <SUITE FILE_PATH="coverage/300Question$025.coverage" NAME="025 Coverage Results" MODIFIED="1704957983048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$028.coverage" NAME="028 Coverage Results" MODIFIED="1704958316151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$016.coverage" NAME="016 Coverage Results" MODIFIED="1704954282449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/300Question$002.coverage" NAME="002 Coverage Results" MODIFIED="1704941980543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/300Question$031.coverage" NAME="031 Coverage Results" MODIFIED="1705020748964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$034.coverage" NAME="034 Coverage Results" MODIFIED="1705020883176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$037.coverage" NAME="037 Coverage Results" MODIFIED="1705021663519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$019.coverage" NAME="019 Coverage Results" MODIFIED="1704957676802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/300Question$027.coverage" NAME="027 Coverage Results" MODIFIED="1704958260380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$007.coverage" NAME="007 Coverage Results" MODIFIED="1704942196247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/300Question$024.coverage" NAME="024 Coverage Results" MODIFIED="1704957909976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$001.coverage" NAME="001 Coverage Results" MODIFIED="1704941824875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/300Question$033.coverage" NAME="033 Coverage Results" MODIFIED="1705020792994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$038__.coverage" NAME="038_컴마 제거하기 Coverage Results" MODIFIED="1705022163717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$010.coverage" NAME="010 Coverage Results" MODIFIED="1704942278958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/300Question$013.coverage" NAME="013 Coverage Results" MODIFIED="1704954009868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/300Question$036.coverage" NAME="036 Coverage Results" MODIFIED="1705021621677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$004.coverage" NAME="004 Coverage Results" MODIFIED="1704942044602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/300Question$040_strip_.coverage" NAME="040_strip 메서드 Coverage Results" MODIFIED="1705022747168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$009.coverage" NAME="009 Coverage Results" MODIFIED="1704942244751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/300Question$003.coverage" NAME="003 Coverage Results" MODIFIED="1704942006247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/300Question$018.coverage" NAME="018 Coverage Results" MODIFIED="1704957267040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/300Question$035.coverage" NAME="035 Coverage Results" MODIFIED="1705020992163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$029.coverage" NAME="029 Coverage Results" MODIFIED="1704958564717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$012.coverage" NAME="012 Coverage Results" MODIFIED="1704953966029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/300Question$015.coverage" NAME="015 Coverage Results" MODIFIED="1704954236738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/300Question$021.coverage" NAME="021 Coverage Results" MODIFIED="1704957793752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$030.coverage" NAME="030 Coverage Results" MODIFIED="1704961537005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/300Question$006.coverage" NAME="006 Coverage Results" MODIFIED="1704942113220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
